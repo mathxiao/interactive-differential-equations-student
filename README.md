@@ -43,7 +43,7 @@ Work through the lecture notebooks one cell at a time. At each **Classroom Check
 
 ## GitHub
 
-This folder is ready to upload as a student repository. The `.gitignore` prevents local virtual environments and notebook checkpoints from being committed.
+The `.gitignore` prevents local virtual environments and notebook checkpoints from being committed.
 
 ## Contents
 
