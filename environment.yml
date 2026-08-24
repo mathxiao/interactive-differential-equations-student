@@ -1,0 +1,13 @@
+name: differential-equations-student
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - numpy
+  - matplotlib
+  - scipy
+  - sympy
+  - ipywidgets
+  - notebook
+  - jupyterlab
+  - ipykernel

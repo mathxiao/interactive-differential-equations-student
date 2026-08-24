@@ -1,0 +1,20 @@
+{
+  "lecture_notebooks": 44,
+  "homework_notebooks": 44,
+  "total_course_notebooks": 88,
+  "answer_reveal_cells_found": 0,
+  "instructor_note_sections_found": 0,
+  "legacy_math_delimiter_cells": 0,
+  "python_syntax_errors": 0,
+  "distributed_code_outputs": 0,
+  "lectures_with_interactive_widgets": 44,
+  "classroom_checkpoint_mentions": 132,
+  "student_TODO_code_markers": 61,
+  "representative_runtime_checks": {
+    "chapter_1_session_1": "passed",
+    "chapter_2_session_8": "passed",
+    "chapter_3_session_12": "passed",
+    "chapter_4_session_22": "passed"
+  },
+  "note": "The student lecture notebooks were derived from the previously validated instructor notebooks by removing answer-reveal and instructor-only cells and clearing outputs. Static validation was run on every student course notebook."
+}
