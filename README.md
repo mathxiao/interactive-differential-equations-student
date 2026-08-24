@@ -1,6 +1,6 @@
 # Interactive Differential Equations — Student Edition
 
-Student-facing course materials for Differential Equations, Chapters 1–9.
+Student course materials for Differential Equations, Chapters 1–9.
 
 ## What is included
 
@@ -8,9 +8,7 @@ Student-facing course materials for Differential Equations, Chapters 1–9.
 - **44 student homework notebooks**
 - Course index and student guide
 - Local Jupyter/Cursor/VS Code environment files
-- No instructor solutions
-- No instructor-only notes
-- No encoded answer-reveal cells
+
 
 ## Start here
 
